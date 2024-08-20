@@ -1,0 +1,75 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+body{
+    
+    background-color: black;
+    height: 100%;
+    max-width: 550px;
+    margin: auto;
+    margin-top: 2em;
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-abstrato-de-meio-tom_23-2148595343.jpg?t=st=1723987280~exp=1723990880~hmac=644544287acacc44c177548c5f2f367366a1f081ea21e65035bdc222613b9d25&w=1060);
+    background-size: cover; 
+}
+img{
+    width: 39%;
+    display: block;
+    margin: auto;
+    margin-bottom: -1.5em;
+}
+header{
+    font-size: 2em;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: white;
+      
+}
+header h1{
+    margin-bottom: -0.7em;
+}
+main{
+    text-align: center;
+    background-color: #F8621A;
+    padding: 0.5em 0em 0.5em 0em;
+    margin: 0.8em 7em;
+    border-radius: 1.2em;
+    box-shadow: 0em 0em 1em  rgba(0, 0, 0, 0.311);
+        
+}
+a{
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5em;
+    color: white;
+    text-decoration: none; 
+}
+main:hover{
+    background-color: black;
+}
+footer{
+    columns: 3;
+    text-align: center;
+    margin-top: 2em;
+    padding: 0.5em 0em 0.5em 0em;
+    margin: 0.8em 6em;
+    
+    
+}
+ footer div{
+    background-color: #F8621A;
+    padding: 0.4em 0em 0.4em 0em;
+    border-radius: 1.2em;
+    box-shadow: 0em 0em 1em  rgba(0, 0, 0, 0.311);  
+}
+ footer div:hover{
+    background-color:black;
+}
+.fundo{
+    background-color: rgba(255, 254, 254, 0.205);
+    border-radius: 1.5em;
+    padding: 1em 0em 0.3em 0em;
+    height: 100%;
+    max-width: 550px;
+}
