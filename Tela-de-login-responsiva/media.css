@@ -1,0 +1,113 @@
+@charset "UTF-8";
+@media screen and (min-width: 768px) and (max-width: 992px){
+    body{
+            background-image: linear-gradient(to top,  #49a09d, #5f2c82);
+        }
+        .login{
+            width: 80vw;
+            height: 280px;
+        }
+        .imagem{
+            float: left;
+            width: 30%;
+            height: 100%;
+        }
+        form > div.campo{
+            height: 40px;
+            margin: 3px 9px;
+        }
+        div.campo{
+            width: 67%;
+            float: right;
+        }
+        div.campo > input{
+            width: 90%;
+            font-size: 1em;
+            height: 98%;
+            padding:5px;
+            border-radius: 5px;
+            transform: translateY(0.1px);
+            float: right;
+        }
+        form > input[type=submit]{
+            width: 67%;
+            margin:3px 9px;
+            float:right;
+        }
+        form > a.botao{
+            width: 67%;
+            margin: 3px 9px;
+            float:right
+        }
+        .formulario > h1{
+            font-size: 1.6em;
+            padding-top: 6px;
+        }
+        .formulario, p{
+            padding: 3px 4px 1px 4px;
+            margin-bottom:0px;
+            font-size: 14px;
+        } 
+        form{
+            display: block;
+            position: relative;
+            right: 0.4%;
+            width: 100%;
+            margin: auto;
+        }  
+    } 
+
+@media screen and (min-width: 992px) {
+    body{
+        background-image: linear-gradient(to top,  #49a09d, #5f2c82);
+    }
+    .login{
+        width: 950px;
+        height: 350px;
+    }
+    .imagem{
+        float: right;
+        width: 50%;
+        height: 100%;
+    }
+    div.campo{
+        width: 48%;
+        float:right;
+    }
+    form > div.campo{
+        height: 39px;
+        margin: 3px 9px;
+    }
+    div.campo > input{
+        width: 90%;
+        font-size: 1em;
+        height: 97%;
+        border-radius: 5px;
+        transform: translateY(0.1px);
+    }
+    form > input[type=submit]{
+        width: 48%;
+        margin:5px 9px;
+        float:right;
+    }
+    form > a.botao{
+        width: 48%;
+        margin: 1px 9px;
+        float:right
+    }
+    .formulario > h1{
+        font-size: 2em;
+        padding: 6px;
+    }
+    .formulario, p{
+        width: 70%;
+        font-size: 17px;
+        margin-bottom:3px;
+        padding: 3px 4px 4px 4px;
+        text-align: center;
+    }
+    form{
+        width: 100%;
+        margin: auto;
+    }
+}
