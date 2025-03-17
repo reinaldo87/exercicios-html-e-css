@@ -3,7 +3,7 @@ link dos sites
 projeto cordel: [https://reinaldo87.github.io/exercicios/cordel-moderno/projeto.html](https://reinaldo87.github.io/exercicios-html-e-css/cordel-moderno/projeto.html)
 
 
-projeto android: https://reinaldo87.github.io/exercicios/site-android/andoid.html
+projeto android: [https://reinaldo87.github.io/exercicios/site-android/andoid.html](https://reinaldo87.github.io/exercicios-html-e-css/site-android/andoid.html)
 
 
 projeto tabela: https://reinaldo87.github.io/exercicios/tabelas/index.html 
